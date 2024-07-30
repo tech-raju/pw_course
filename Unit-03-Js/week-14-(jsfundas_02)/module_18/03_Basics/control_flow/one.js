@@ -14,7 +14,6 @@ const temperature = 41
 // }
 // console.log("execute")
 
-
 // comparision operator
 // 3 != 2
 // 3 == "3"

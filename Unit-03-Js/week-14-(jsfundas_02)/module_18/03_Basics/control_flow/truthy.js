@@ -7,7 +7,6 @@ if (userEmail) {
     // console.log("Don't have user email")
 }
 
-
 // falsy values
 
 // false, 0, -0, Bigint 0n, "", null, undefined, NaN

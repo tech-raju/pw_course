@@ -12,7 +12,6 @@ const user = {
   },
 };
 
-
 // user.welcomeMessage();
 // user.username = "ram"
 // user.price = 3090

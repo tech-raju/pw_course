@@ -16,7 +16,6 @@ coding.forEach(function (val) {
 
 coding.forEach(printMe);
 
-
 // printMe
 
 function printMe(item) {

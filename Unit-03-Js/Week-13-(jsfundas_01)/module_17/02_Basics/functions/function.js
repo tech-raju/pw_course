@@ -9,7 +9,6 @@ function sayMyName() {
 // console.log(result);
 
 
-
 // add two Number
 
 

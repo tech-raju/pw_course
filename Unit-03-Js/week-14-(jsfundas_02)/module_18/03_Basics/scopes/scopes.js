@@ -13,7 +13,6 @@ if (true) {
 // console.log(c);
 
 
-
 // +++++++++++++++++++ Nested Scope +++++++++++++++++++++++++++
 
  function first(){

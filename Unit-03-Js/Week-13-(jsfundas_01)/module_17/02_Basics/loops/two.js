@@ -9,7 +9,6 @@ while (index <= 12) {
 
 // array in while loop
 
-
 let myArr = [1, 3, 4, 5, 8, 2]
 
 let arr = 0

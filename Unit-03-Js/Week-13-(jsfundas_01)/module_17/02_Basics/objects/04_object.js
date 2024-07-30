@@ -73,7 +73,6 @@ const { courseInstructor: instructor } = course;
 //     "price": "free"
 // }
 
-
 [
     {}, 
     {}, 

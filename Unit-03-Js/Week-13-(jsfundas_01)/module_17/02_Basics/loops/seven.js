@@ -7,7 +7,6 @@ const newNums = myNumber.map( (num) => num + 10)
 // console.log(newNums);
 
 
-
 // using foreach in map method
 
 const number = []
