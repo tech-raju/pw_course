@@ -1,4 +1,3 @@
-
 const accountId = 12345;
 let accountEmail = "manjhiraju07@gmail.com";
 var accountPassword = "123345";
